@@ -9,3 +9,4 @@ globally installed
 Php storm is the preferred text editor.
 Run the following command on your terminal:
 $ php bin/console server:run
+Open your browser and check localhost
